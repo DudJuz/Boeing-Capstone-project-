@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[202]:
-
 
 import cv2
 
@@ -66,23 +64,3 @@ for c in cnts:
 cv2.imwrite('/Users/apple00882266/Desktop/opencv/image2333.jpg', image)
 cv2.imwrite('/Users/apple00882266/Desktop/opencv/thresh2333.jpg', thresh)
 cv2.imwrite('/Users/apple00882266/Desktop/opencv/opening2333.jpg', opening)
-#print(Q)
-
-
-# In[ ]:
-
-
-
-
-
-# In[172]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
